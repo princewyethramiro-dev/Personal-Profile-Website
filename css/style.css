@@ -309,3 +309,13 @@ article figure img.cropped-image {
   margin-bottom: 0;
   height: 100%;
 }
+
+#greetMessage,
+.project-card [id^="details"] {
+  animation: fadeIn 0.4s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(-6px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
