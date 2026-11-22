@@ -1,6 +1,6 @@
 Student Name: Prince Wyeth C. Ramiro
  Section: 3A - WMAD
-Week 13 Lecture Activity: JavaScript Features in Portfolio
+Week 18 Final Activity: SYSTEM MANUAL AND GITHUB REPOSITORY 
 
 Feature 1: Greeting Button (Dynamic Welcome Message)
 - The user clicks the "Say Hello" button on the homepage, which triggers time-sensitive greeting right below the button.
