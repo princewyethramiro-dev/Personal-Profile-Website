@@ -8,9 +8,9 @@ Feature 1: Greeting Button (Dynamic Welcome Message)
 Feature 2: Show/Hide Details (Collapsible Project Information)
 - The user clicks the "Show Details" button on any project card, JavaScript toggles the visibility of the hidden information block (and vice versa).
 
-Figma Link: https://www.figma.com/design/O8Ss4HbVtNotBIUjvbGYrH/Week-6?node-id=0-1&t=UbjE5SnN9HDbhS9Y-1
-GitHub URL: https://github.com/princewyethramiro-dev/Personal-Profile-Website
-Site URL: https://princewyethramiro-dev.github.io/Personal-Profile-Website/
+# Figma Link: https://www.figma.com/design/O8Ss4HbVtNotBIUjvbGYrH/Week-6?node-id=0-1&t=UbjE5SnN9HDbhS9Y-1
+# GitHub URL: https://github.com/princewyethramiro-dev/Personal-Profile-Website
+# Site URL: https://princewyethramiro-dev.github.io/Personal-Profile-Website/
 
 Image Credits
 - Profile photo: original (own photo)
